@@ -11,7 +11,8 @@ def calculate_bmi():
             category = "Underweight"
         elif 18.5 <= bmi < 24.9:
             category = "Normal weight"
-        elif 25 <= bmi < 29.9:
+        elif 25 <= bmi < 29.9:git status
+
             category = "Overweight"
         else:
             category = "Obese"
