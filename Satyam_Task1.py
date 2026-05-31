@@ -52,6 +52,6 @@ def process_command(command):
 if __name__ == "__main__":
     speak_output("Voice Assistant started. Say something!")
     cmd = listen_
-    command()
+     command()
     if cmd:
         process_command(cmd)
