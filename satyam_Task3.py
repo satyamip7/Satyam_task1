@@ -10,6 +10,7 @@ def generate_password(length=8, use_digits=True, use_symbols=True):
 
     password = ''.join(random.choice(characters) for _ in range(length))
     return password
+"Added Task 3: Random Password Generator"
 
 if __name__ == "__main__":
     print("Random Password Generator")
