@@ -1,4 +1,9 @@
 # Oasis Infobyte – Python Programming Internship (Tasks 1–4)
+Author
+Satyam Yadav
+LinkedIn: https://www.linkedin.com/in/satyam-yadav7
+GitHub: https://github.com/satyamip7
+
 File: Satyam_Task1.py
 
 Description
